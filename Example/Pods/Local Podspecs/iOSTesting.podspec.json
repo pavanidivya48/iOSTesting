@@ -1,0 +1,22 @@
+{
+  "name": "iOSTesting",
+  "version": "0.1.0",
+  "summary": "A short description of iOSTesting.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/pavanidivya48/iOSTesting",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pavanidivya48": "pavanidivya48@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/pavanidivya48/iOSTesting.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "iOSTesting/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module iOSTesting {
+  umbrella header "iOSTesting-umbrella.h"
+
+  export *
+  module * { export * }
+}

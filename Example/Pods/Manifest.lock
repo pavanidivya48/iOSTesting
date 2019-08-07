@@ -1,0 +1,16 @@
+PODS:
+  - iOSTesting (0.1.0)
+
+DEPENDENCIES:
+  - iOSTesting (from `../`)
+
+EXTERNAL SOURCES:
+  iOSTesting:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  iOSTesting: 4f21b60d250d1c9cb287694b2b85afe9c444c113
+
+PODFILE CHECKSUM: 460cc47be330d81b7d75f8f24acb55be3859d76e
+
+COCOAPODS: 1.7.5
