@@ -120,12 +120,20 @@
 		202299F0E9C789EA75737CC33F8CD0C1 /* iOSTesting */ = {
 			isa = PBXGroup;
 			children = (
+				2A5ACE7B22FB0B7800F3E874 /* Classes */,
 				3AF0C919EA602E0746827D63B6CAFB4C /* Pod */,
 				97A052B1DCCC6B9474B708BCFC360EFA /* Support Files */,
-				2A5ACE7522FAF85600F3E874 /* File.swift */,
 			);
 			name = iOSTesting;
 			path = ../..;
+			sourceTree = "<group>";
+		};
+		2A5ACE7B22FB0B7800F3E874 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				2A5ACE7522FAF85600F3E874 /* File.swift */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 		3770503AB9AE114B23C2E753741577F3 /* Pods-iOSTesting_Example */ = {
