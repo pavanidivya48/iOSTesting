@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'iOSTesting_Example' do
+  pod 'iOSTesting', :path => '../'
+
+  target 'iOSTesting_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
