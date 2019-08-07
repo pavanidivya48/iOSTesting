@@ -15,7 +15,7 @@ public class RandomGenerator {
     }
     
     public static func integer() -> Int {
-        return Int(arc4random()) // Something to do
+        return Int(arc4random()) // Something to do..
     }
     
     
